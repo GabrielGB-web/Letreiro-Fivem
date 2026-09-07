@@ -1,0 +1,6 @@
+{
+  "name": "Criador de Letreiro 3D FiveM",
+  "description": "Ferramenta para criação e personalização de letreiros 3D para FiveM com geração de arquivos .ydr, .ybn, .ytyp e exportação direta para o servidor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
